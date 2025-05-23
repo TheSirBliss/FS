@@ -1,0 +1,102 @@
+{
+  "Serie A": {
+    "classifica": [
+      {
+        "name": "Inter",
+        "points": 75,
+        "gf": 65,
+        "gs": 23
+      },
+      {
+        "name": "Juventus",
+        "points": 68,
+        "gf": 54,
+        "gs": 28
+      }
+    ],
+    "marcatori": [
+      {
+        "name": "Lautaro Martinez",
+        "team": "Inter",
+        "goals": 22
+      },
+      {
+        "name": "Osimhen",
+        "team": "Napoli",
+        "goals": 18
+      }
+    ],
+    "partite": [
+      {
+        "date": "2024-05-26",
+        "home": "Inter",
+        "away": "Milan"
+      },
+      {
+        "date": "2024-05-27",
+        "home": "Roma",
+        "away": "Juventus"
+      }
+    ],
+    "gol_subiti": [
+      {
+        "name": "Inter",
+        "conceded": 23
+      },
+      {
+        "name": "Frosinone",
+        "conceded": 51
+      }
+    ]
+  },
+  "Premier League": {
+    "classifica": [
+      {
+        "name": "Man City",
+        "points": 80,
+        "gf": 70,
+        "gs": 30
+      },
+      {
+        "name": "Arsenal",
+        "points": 78,
+        "gf": 66,
+        "gs": 29
+      }
+    ],
+    "marcatori": [
+      {
+        "name": "Haaland",
+        "team": "Man City",
+        "goals": 27
+      },
+      {
+        "name": "Salah",
+        "team": "Liverpool",
+        "goals": 20
+      }
+    ],
+    "partite": [
+      {
+        "date": "2024-05-28",
+        "home": "Man City",
+        "away": "Liverpool"
+      },
+      {
+        "date": "2024-05-29",
+        "home": "Chelsea",
+        "away": "Arsenal"
+      }
+    ],
+    "gol_subiti": [
+      {
+        "name": "Sheffield",
+        "conceded": 60
+      },
+      {
+        "name": "Man City",
+        "conceded": 30
+      }
+    ]
+  }
+}
